@@ -920,9 +920,9 @@ body {
     }
 
     .intro__text {
-        font-size: 2em;
+        font-size: 1em;
         font-weight: 700;
-        color: #333333;
+        color: #ff0000;
     }
 
     /*ABOUT*/
